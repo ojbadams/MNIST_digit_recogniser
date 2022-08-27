@@ -18,3 +18,4 @@ Eventually there will be another Python file that wrap the ML functions in the n
 * New file which wraps functions from Python notebooks & compares results
 * Implementation of autencoder
 * Additional functionality of BaseDataLoader class with possibility of creating a fork
+
